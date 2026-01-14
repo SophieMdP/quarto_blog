@@ -9,6 +9,7 @@ website:
   navbar:
     right:
       - about.qmd
+      - contact.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
